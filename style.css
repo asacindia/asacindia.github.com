@@ -41,19 +41,12 @@ div#main #description p {
 }
 
 div#footer {
-    margin-top: 125px;
+    margin-top: 107px;
     margin-left: 50px;
 }
 
-div#footer #phone {
-    width: 800px;
-    display: inline-block;
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-size: 14px;
-    font-weight: bold;
-}
-
 div#footer #contact {
+    margin-left: 800px;
     width: 200px;
     display: inline-block;
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -66,7 +59,7 @@ div#footer #contact a {
     text-decoration: none;
 }
 
-div#footer #contact img {
+div#footer img {
     height: 14px;
     align: left;
 }
